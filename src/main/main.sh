@@ -3,3 +3,6 @@
 
 echo done
 
+echo error
+
+
