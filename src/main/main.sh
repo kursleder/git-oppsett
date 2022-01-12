@@ -5,4 +5,5 @@ echo done
 
 echo error
 
+echo last line
 
